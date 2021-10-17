@@ -18,6 +18,8 @@ The test contains what I would be validation IF I could have made it to access t
 4. Click on the landingPage spec file
 5. The browser will open and you should be able to see the Plug extension in it, but won't be able to interact with it (sad face)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Additional Notes:
 
 To evaluate the code you can go to Cypress > Integration > landingPage.spec
